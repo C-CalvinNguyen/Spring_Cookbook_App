@@ -18,12 +18,12 @@ manage a shopping list of ingredients, all of which will be stored in a database
 
 ----------------------------------------
 
-![Home Page Image](/imgs/home.png)
-![Register Page Image](/imgs/register.png)
-![Login Page Image](/imgs/login.png)
-![Recipe List Page Image](/imgs/recipes.png)
-![App Dashboard Page Image](/imgs/dashboard.png)
-![Create Recipe Page Image](/imgs/create.png)
+![Home Page Image](./imgs/home.png)
+![Register Page Image](./imgs/register.png)
+![Login Page Image](./imgs/login.png)
+![Recipe List Page Image](./imgs/recipes.png)
+![App Dashboard Page Image](./imgs/dashboard.png)
+![Create Recipe Page Image](./imgs/create.png)
 
 -----------------------------------------
 
