@@ -3,7 +3,7 @@
 
 ###### Description
 
-Project uses Spring to create a recipe web app wehre users can create, manage and share their recipes. <br/>
+Project uses Spring to create a recipe web app where users can create, manage and share their recipes. <br/>
 Users will also be able to favourite recipes, search for other recipes, plan a meal with a recipe, <br/>
 manage a shopping list of ingredients, all of which will be stored in a database.
 
@@ -18,12 +18,12 @@ manage a shopping list of ingredients, all of which will be stored in a database
 
 ----------------------------------------
 
-![Home Page Image](imgs/home.png)
-![Register Page Image](imgs/register.png)
-![Login Page Image](imgs/login.png)
-![Recipe List Page Image](imgs/recipes.png)
-![App Dashboard Page Image](imgs/dashboard.png)
-![Create Recipe Page Image](imgs/create.png)
+![Home Page Image](imgs/home.PNG)
+![Register Page Image](imgs/register.PNG)
+![Login Page Image](imgs/login.PNG)
+![Recipe List Page Image](imgs/recipes.PNG)
+![App Dashboard Page Image](imgs/dashboard.PNG)
+![Create Recipe Page Image](imgs/create.PNG)
 
 -----------------------------------------
 
