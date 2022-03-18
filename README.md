@@ -12,8 +12,11 @@ manage a shopping list of ingredients, all of which will be stored in a database
 ###### Installation & Run Guide
 
 • Requires IntelliJ IDEA, JDK 1.8 or later
+
 • Clone Repository
+
 • Open cookbook folder with IntelliJ IDEA
+
 • Build and run project
 
 ----------------------------------------
