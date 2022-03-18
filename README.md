@@ -1,4 +1,34 @@
-# cookbook_comp3095
+# Spring Cookbook App
+----------------------------------------
+
+###### Description
+
+Project uses Spring to create a recipe web app wehre users can create, manage and share their recipes. <br/>
+Users will also be able to favourite recipes, search for other recipes, plan a meal with a recipe, <br/>
+manage a shopping list of ingredients, all of which will be stored in a database.
+
+----------------------------------------
+
+###### Installation & Run Guide
+
+• Requires IntelliJ IDEA, JDK 1.8 or later
+• Clone Repository
+• Open cookbook folder with IntelliJ IDEA
+• Build and run project
+
+----------------------------------------
+
+![Home Page Image](/imgs/home.png)
+![Register Page Image](/imgs/register.png)
+![Login Page Image](/imgs/login.png)
+![Recipe List Page Image](/imgs/recipes.png)
+![App Dashboard Page Image](/imgs/dashboard.png)
+![Create Recipe Page Image](/imgs/create.png)
+
+-----------------------------------------
+
+###### cookbook_comp3095
+
 Web Dev Java-Assignment1
 
 Use Case List - For this first part (Part A/ Assignment #1) you are to satisfy the following use cases only.
